@@ -1,5 +1,17 @@
 {
   "files.exclude": {
     "node_modules/": true
-  }
+  },
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#e806a4",
+    "statusBar.border": "#e806a4",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#f928ba",
+    "titleBar.activeBackground": "#e806a4",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.border": "#e806a4",
+    "titleBar.inactiveBackground": "#e806a499",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#e806a4"
 }
